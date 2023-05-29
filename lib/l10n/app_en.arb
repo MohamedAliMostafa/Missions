@@ -1,0 +1,15 @@
+{
+  "language": "Language",
+  "mode": "Mode",
+  "title": "Add new Task",
+  "hint1": "Enter Your Task",
+  "hint2": "Enter Your Description",
+  "select": "Select Time",
+  "btn": "Add",
+  "english": "English",
+  "arabic": "Arabic",
+  "light": "Light",
+  "dark": "Dark",
+  "edit": "Edit Task",
+  "save": "Save Changes"
+}
